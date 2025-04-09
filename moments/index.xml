@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moments on </title>
+    <link>http://localhost:1313/moments/</link>
+    <description>Recent content in Moments on </description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Mon, 10 Mar 2025 14:10:12 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/moments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/20250310/</link>
+      <pubDate>Mon, 10 Mar 2025 14:10:12 +0800</pubDate>
+      <guid>http://localhost:1313/moments/20250310/</guid>
+      <description>纳斯达克指数跌4%，难道真要东升西落？最近一段时间美股走势确实不行，有一路下行的苗头。手里的美股基本上也快清完了，由于限购，按照以前现在开始定投基本属于抄底了，但是最近国内AI的发展，让美国那边的大模型有点焦头烂额，各巨头纷纷拥抱deepseek。再加上马斯克的一系列举措，让特斯拉也接近腰斩。再推迟一段时间再定投吧，也许正确，也许错误。如果A股再要开启一段政策行情，谁知道呢。</description>
+    </item>
+  </channel>
+</rss>
